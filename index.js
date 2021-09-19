@@ -14,7 +14,7 @@ var mailOptions = {
     from: '****Your email****',
     to: '****Email to****',
     subject: '****Subject****',
-    text: '****Text to sent****',
+    text: '****Text to send****',
     html: '****HTML Format****'
 }
 
