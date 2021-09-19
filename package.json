@@ -1,0 +1,14 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "Simple email sent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.6.3"
+  }
+}
