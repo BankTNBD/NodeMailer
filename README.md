@@ -20,4 +20,6 @@ To run script
 
 - [@BankTNBD](https://www.github.com/BankTNBD)
 
-  
+## ☕ Buy ME A Coffee
+
+https://www.buymeacoffee.com/IamBanky
